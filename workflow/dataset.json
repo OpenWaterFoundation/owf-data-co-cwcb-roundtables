@@ -1,0 +1,25 @@
+{
+  "title": "Colorado IBCC Roundtables",
+  "description": "Colorado Interbasin Compact Commission (IBCC) Roundtables.",
+  "identifier": "owf-data-co-ibcc-roundtables",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/ibcc/roundtables/",
+  "issued": "2022-07-24",
+  "keyword": [
+    "polygon",
+    "ibcc",
+    "roundtables"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado IBCC Roundtables"
+    }
+  ]
+}

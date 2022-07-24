@@ -15,7 +15,7 @@ OWF has created and is maintaining this dataset to facilitate work on various da
 This repository contains the workflow to convert the
 original data from zipped shapefile to GeoJSON file.
 The dataset files are also published on
-[`data.openwaterfoundation.org`](https://data.openwtaerfoundation.org)
+[`data.openwaterfoundation.org`](https://data.openwaterfoundation.org)
 and are used in data analyses and web applications.
 
 See also the older [`owf-data-co-roundtable-basins`](https://github.com/OpenWaterFoundation/owf-data-co-roundtable-basins)
@@ -52,10 +52,10 @@ C:\Users\user/                              Windows user files.
 
 ## How to Use the Data ##
 
-The GeoJSON files in the `data` folders can be used directly by GIS and web mapping applications.
+The GeoJSON files in the `data` folder can be used directly by GIS and web mapping applications.
 
 However, it is recommended to use the files served from the
-[Colorado IBCC Roundatables](https://data.openwaterfoundation.org/state/co/ibcc/roundtables/) links.
+[Colorado IBCC Roundtables](https://data.openwaterfoundation.org/state/co/ibcc/roundtables/) links.
 
 ## License ##
 

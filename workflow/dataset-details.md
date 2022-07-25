@@ -15,6 +15,11 @@ The following files can be downloaded or used directly.
 See the [`owf-data-co-ibcc-roundtables`](https://github.com/OpenWaterFoundation/owf-data-co-ibcc-roundtables)
 GitHub repository for information.
 
+## Update Frequency and Versions ##
+
+This dataset was created when the IBCC was established.
+The dataset will be updated only if an update to the original dataset is published.
+
 ## Credits ##
 
 * Original zipped shapefiles were downloaded and processed from

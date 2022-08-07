@@ -6,9 +6,9 @@ This dataset contains GeoJSON polygon features for Colorado Interbasin Compact C
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-ibcc-roundtables.geojson`](co-ibcc-roundtables.geojson) | IBCC Roundtable basins. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-ibcc-roundtables.geojson`](co-ibcc-roundtables.geojson) | IBCC Roundtable basins. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/ibcc/roundtables/co-ibcc-roundtables.geojson) |
 
 ## Workflow ##
 
